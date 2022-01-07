@@ -1,22 +1,3 @@
-Skip to content
-Raja × Hosting
-/
-Base-ZeroYT7
-Public
-Code
-Issues
-Pull requests
-23
-Actions
-Projects
-Wiki
-Security
-Insights
-Base-ZeroYT7/zeroyt7.js
-@Zero-YT7
-Zero-YT7 Update zeroyt7.js
- 1 contributor
-971 lines (932 sloc)  42.7 KB
 //NEW BASE BY ZERO YT7
 //RECODE SESUKA HATIMU JANGAN HPUS CREATOR NYA
 //MAAF BASE NYA JELEK
@@ -982,18 +963,3 @@ if (isOwner) {
 	}
 }
 
-
-	
-    
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
